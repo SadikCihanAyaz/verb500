@@ -67,7 +67,7 @@ export default function Home() {
         </div>
 
         {/* Language Selector */}
-        <div className="flex justify-center mb-8">
+        <div >
           <LanguageSelector 
             selectedPair={selectedPair}
             onPairChange={handlePairChange}

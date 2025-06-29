@@ -23,7 +23,7 @@ export default function LanguageSelector({ selectedPair, onPairChange }: Languag
     <div className="relative mb-6">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="w-full md:w-auto flex items-center justify-between space-x-3 px-6 py-3 bg-white border-2 border-gray-200 rounded-xl hover:border-blue-300 transition-all duration-200 shadow-sm"
+        className="w-full flex items-center justify-between space-x-3 px-6 py-3 bg-white border-2 border-gray-200 rounded-xl hover:border-blue-300 transition-all duration-200 shadow-sm"
       >
         <div className="flex items-center space-x-3">
           <Globe className="w-5 h-5 text-blue-600" />
@@ -52,9 +52,8 @@ export default function LanguageSelector({ selectedPair, onPairChange }: Languag
                 onPairChange(pair);
                 setIsOpen(false);
               }}
-              className={`w-full px-6 py-4 text-left hover:bg-gray-50 transition-colors duration-200 border-b border-gray-100 last:border-b-0 ${
-                selectedPair?.id === pair.id ? 'bg-blue-50 text-blue-700' : 'text-gray-700'
-              }`}
+              className={`w-full px-6 py-4 text-left hover:bg-gray-50 transition-colors duration-200 border-b border-gray-100 last:border-b-0 ${selectedPair?.id === pair.id ? 'bg-blue-50 text-blue-700' : 'text-gray-700'
+                }`}
             >
               <div className="font-medium">
                 {pair.mainLanguage} → {pair.goalLanguage}
