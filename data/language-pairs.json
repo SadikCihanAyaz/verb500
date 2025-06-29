@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "mainLanguage": "Turkish",
+    "goalLanguage": "English",
+    "code": "tr-en"
+  },
+  {
+    "id": 2,
+    "mainLanguage": "Turkish",
+    "goalLanguage": "Romanian",
+    "code": "tr-ro"
+  }
+]

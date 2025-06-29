@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "word": "accept",
+    "example": "I accept your invitation to the party.",
+    "wordTranslation": "kabul etmek, almak",
+    "exampleTranslation": "Partiye davetini kabul ediyorum."
+  },
+  {
+    "id": 2,
+    "word": "achieve",
+    "example": "She achieved her goal of becoming a doctor.",
+    "wordTranslation": "başarmak, elde etmek",
+    "exampleTranslation": "Doktor olma hedefini başardı."
+  },
+  {
+    "id": 3,
+    "word": "add",
+    "example": "Please add sugar to my coffee.",
+    "wordTranslation": "eklemek, katmak",
+    "exampleTranslation": "Lütfen kahveme şeker ekle."
+  },
+  {
+    "id": 4,
+    "word": "agree",
+    "example": "I agree with your opinion about the movie.",
+    "wordTranslation": "katılmak, aynı fikirde olmak",
+    "exampleTranslation": "Film hakkındaki görüşüne katılıyorum."
+  },
+  {
+    "id": 5,
+    "word": "allow",
+    "example": "My parents allow me to stay out late.",
+    "wordTranslation": "izin vermek, müsaade etmek",
+    "exampleTranslation": "Ailem geç saatte dışarıda kalmama izin veriyor."
+  },
+  {
+    "id": 6,
+    "word": "answer",
+    "example": "Please answer the phone when it rings.",
+    "wordTranslation": "cevaplamak, yanıtlamak",
+    "exampleTranslation": "Telefon çaldığında lütfen cevapla."
+  },
+  {
+    "id": 7,
+    "word": "appear",
+    "example": "The sun appears to be setting.",
+    "wordTranslation": "görünmek, ortaya çıkmak",
+    "exampleTranslation": "Güneş batıyor gibi görünüyor."
+  },
+  {
+    "id": 8,
+    "word": "arrive",
+    "example": "The train will arrive at 3 PM.",
+    "wordTranslation": "varmak, ulaşmak",
+    "exampleTranslation": "Tren saat 15:00'te varacak."
+  },
+  {
+    "id": 9,
+    "word": "ask",
+    "example": "Can I ask you a question?",
+    "wordTranslation": "sormak, istemek",
+    "exampleTranslation": "Sana bir soru sorabilir miyim?"
+  },
+  {
+    "id": 10,
+    "word": "attack",
+    "example": "The dog might attack if you get too close.",
+    "wordTranslation": "saldırmak, hücum etmek",
+    "exampleTranslation": "Çok yaklaşırsan köpek saldırabilir."
+  },
+  {
+    "id": 11,
+    "word": "avoid",
+    "example": "Try to avoid eating too much sugar.",
+    "wordTranslation": "kaçınmak, sakınmak",
+    "exampleTranslation": "Çok fazla şeker yemekten kaçınmaya çalış."
+  },
+  {
+    "id": 12,
+    "word": "become",
+    "example": "She wants to become a teacher.",
+    "wordTranslation": "olmak, haline gelmek",
+    "exampleTranslation": "Öğretmen olmak istiyor."
+  },
+  {
+    "id": 13,
+    "word": "begin",
+    "example": "The meeting will begin at 9 AM.",
+    "wordTranslation": "başlamak, başlatmak",
+    "exampleTranslation": "Toplantı sabah 9'da başlayacak."
+  },
+  {
+    "id": 14,
+    "word": "believe",
+    "example": "I believe in working hard for success.",
+    "wordTranslation": "inanmak, güvenmek",
+    "exampleTranslation": "Başarı için çok çalışmaya inanıyorum."
+  },
+  {
+    "id": 15,
+    "word": "belong",
+    "example": "This book belongs to my sister.",
+    "wordTranslation": "ait olmak, mensup olmak",
+    "exampleTranslation": "Bu kitap kız kardeşime ait."
+  },
+  {
+    "id": 16,
+    "word": "break",
+    "example": "Be careful not to break the glass.",
+    "wordTranslation": "kırmak, bozmak",
+    "exampleTranslation": "Camı kırmamaya dikkat et."
+  },
+  {
+    "id": 17,
+    "word": "bring",
+    "example": "Please bring your notebook to class.",
+    "wordTranslation": "getirmek, taşımak",
+    "exampleTranslation": "Lütfen defter defterini sınıfa getir."
+  },
+  {
+    "id": 18,
+    "word": "build",
+    "example": "They plan to build a new hospital.",
+    "wordTranslation": "inşa etmek, yapmak",
+    "exampleTranslation": "Yeni bir hastane inşa etmeyi planlıyorlar."
+  },
+  {
+    "id": 19,
+    "word": "buy",
+    "example": "I need to buy groceries for dinner.",
+    "wordTranslation": "satın almak, kaufen",
+    "exampleTranslation": "Akşam yemeği için market alışverişi yapmam gerek."
+  },
+  {
+    "id": 20,
+    "word": "call",
+    "example": "I'll call you later tonight.",
+    "wordTranslation": "aramak, çağırmak",
+    "exampleTranslation": "Seni bu akşam sonra ararım."
+  },
+  {
+    "id": 21,
+    "word": "carry",
+    "example": "Can you help me carry these boxes?",
+    "wordTranslation": "taşımak, götürmek",
+    "exampleTranslation": "Bu kutuları taşımama yardım edebilir misin?"
+  },
+  {
+    "id": 22,
+    "word": "catch",
+    "example": "Try to catch the ball with both hands.",
+    "wordTranslation": "yakalamak, tutmak",
+    "exampleTranslation": "Topu iki elinle yakalamaya çalış."
+  },
+  {
+    "id": 23,
+    "word": "cause",
+    "example": "Heavy rain can cause flooding.",
+    "wordTranslation": "neden olmak, sebep olmak",
+    "exampleTranslation": "Şiddetli yağmur sele neden olabilir."
+  },
+  {
+    "id": 24,
+    "word": "change",
+    "example": "The weather can change quickly in spring.",
+    "wordTranslation": "değiştirmek, değişmek",
+    "exampleTranslation": "Baharda hava hızla değişebilir."
+  },
+  {
+    "id": 25,
+    "word": "choose",
+    "example": "You can choose any color you like.",
+    "wordTranslation": "seçmek, tercih etmek",
+    "exampleTranslation": "İstediğin herhangi bir rengi seçebilirsin."
+  },
+  {
+    "id": 26,
+    "word": "clean",
+    "example": "Please clean your room before going out.",
+    "wordTranslation": "temizlemek, temiz yapmak",
+    "exampleTranslation": "Dışarı çıkmadan önce lütfen odanı temizle."
+  },
+  {
+    "id": 27,
+    "word": "close",
+    "example": "Don't forget to close the door.",
+    "wordTranslation": "kapatmak, kapanmak",
+    "exampleTranslation": "Kapıyı kapatmayı unutma."
+  },
+  {
+    "id": 28,
+    "word": "come",
+    "example": "Come here and look at this picture.",
+    "wordTranslation": "gelmek, yaklaşmak",
+    "exampleTranslation": "Buraya gel ve bu resme bak."
+  },
+  {
+    "id": 29,
+    "word": "compare",
+    "example": "Let's compare these two phones.",
+    "wordTranslation": "karşılaştırmak, kıyaslamak",
+    "exampleTranslation": "Bu iki telefonu karşılaştıralım."
+  },
+  {
+    "id": 30,
+    "word": "complete",
+    "example": "I need to complete this project by Friday.",
+    "wordTranslation": "tamamlamak, bitirmek",
+    "exampleTranslation": "Bu projeyi Cuma'ya kadar bitirmem gerek."
+  }
+]
