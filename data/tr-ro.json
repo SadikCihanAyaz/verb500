@@ -1,212 +1,165 @@
 [
   {
     "id": 1,
-    "word": "accept",
-    "example": "I accept your invitation to the party.",
-    "wordTranslation": "a accepta, a primi",
-    "exampleTranslation": "Accept invitația ta la petrecere."
+    "word": "olmak",
+    "example": "Ben mutlu olmak istiyorum.",
+    "wordTranslation": "a fi",
+    "exampleTranslation": "Vreau să fiu fericit.",
+    "tips": "a fi: eu sunt, tu ești, el/ea este, noi suntem, voi sunteți, ei/ele sunt"
   },
   {
     "id": 2,
-    "word": "achieve",
-    "example": "She achieved her goal of becoming a doctor.",
-    "wordTranslation": "a realiza, a atinge",
-    "exampleTranslation": "Ea și-a atins obiectivul de a deveni doctor."
+    "word": "sahip olmak",
+    "example": "Bir arabam var.",
+    "wordTranslation": "a avea",
+    "exampleTranslation": "Am o mașină.",
+    "tips": "a avea: eu am, tu ai, el/ea are, noi avem, voi aveți, ei/ele au"
   },
   {
     "id": 3,
-    "word": "add",
-    "example": "Please add sugar to my coffee.",
-    "wordTranslation": "a adăuga, a pune",
-    "exampleTranslation": "Te rog adaugă zahăr în cafeaua mea."
+    "word": "yapmak",
+    "example": "Her sabah egzersiz yaparım.",
+    "wordTranslation": "a face",
+    "exampleTranslation": "Fac exerciții în fiecare dimineață.",
+    "tips": "a face: eu fac, tu faci, el/ea face, noi facem, voi faceți, ei/ele fac"
   },
   {
     "id": 4,
-    "word": "agree",
-    "example": "I agree with your opinion about the movie.",
-    "wordTranslation": "a fi de acord, a conveni",
-    "exampleTranslation": "Sunt de acord cu părerea ta despre film."
+    "word": "söylemek",
+    "example": "O doğruyu söyledi.",
+    "wordTranslation": "a spune",
+    "exampleTranslation": "El a spus adevărul.",
+    "tips": "a spune: eu spun, tu spui, el/ea spune, noi spunem, voi spuneți, ei/ele spun"
   },
   {
     "id": 5,
-    "word": "allow",
-    "example": "My parents allow me to stay out late.",
-    "wordTranslation": "a permite, a îngădui",
-    "exampleTranslation": "Părinții mei îmi permit să stau afară târziu."
+    "word": "gitmek",
+    "example": "Yarın İstanbul'a gideceğim.",
+    "wordTranslation": "a merge",
+    "exampleTranslation": "Mâine voi merge la Istanbul.",
+    "tips": "a merge: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg"
   },
   {
     "id": 6,
-    "word": "answer",
-    "example": "Please answer the phone when it rings.",
-    "wordTranslation": "a răspunde, a da răspuns",
-    "exampleTranslation": "Te rog răspunde la telefon când sună."
+    "word": "ebilmek",
+    "example": "Ben yüzebilirim.",
+    "wordTranslation": "a putea",
+    "exampleTranslation": "Pot să înot.",
+    "tips": "a putea: eu pot, tu poți, el/ea poate, noi putem, voi puteți, ei/ele pot"
   },
   {
     "id": 7,
-    "word": "appear",
-    "example": "The sun appears to be setting.",
-    "wordTranslation": "a apărea, a se vedea",
-    "exampleTranslation": "Soarele pare să apună."
+    "word": "almak",
+    "example": "Marketten ekmek aldım.",
+    "wordTranslation": "a lua",
+    "exampleTranslation": "Am luat pâine de la magazin.",
+    "tips": "a lua: eu iau, tu iei, el/ea ia, noi luăm, voi luați, ei/ele iau"
   },
   {
     "id": 8,
-    "word": "arrive",
-    "example": "The train will arrive at 3 PM.",
-    "wordTranslation": "a sosi, a ajunge",
-    "exampleTranslation": "Trenul va sosi la ora 15:00."
+    "word": "yapmak",
+    "example": "Eğer sana 40 lei verirsem bu işi yapabilir misin?",
+    "wordTranslation": "a face",
+    "exampleTranslation": "Dacă îți dau 40 de lei, poți să faci această lucrare?",
+    "tips": "a face: eu fac, tu faci, el/ea face, noi facem, voi faceți, ei/ele fac"
   },
   {
     "id": 9,
-    "word": "ask",
-    "example": "Can I ask you a question?",
-    "wordTranslation": "a întreba, a cere",
-    "exampleTranslation": "Pot să te întreb ceva?"
+    "word": "bilmek",
+    "example": "Ben bu problemin nasıl çözüleceğini bilmiyorum.",
+    "wordTranslation": "a ști",
+    "exampleTranslation": "Nu știu cum să rezolv această problemă.",
+    "tips": "a ști: eu știu, tu știi, el/ea știe, noi știm, voi știți, ei/ele știu"
   },
   {
     "id": 10,
-    "word": "attack",
-    "example": "The dog might attack if you get too close.",
-    "wordTranslation": "a ataca, a agresa",
-    "exampleTranslation": "Câinele ar putea ataca dacă te apropii prea mult."
+    "word": "düşünmek",
+    "example": "Bunu daha sonra düşüneceğim.",
+    "wordTranslation": "a gândi",
+    "exampleTranslation": "O să mă gândesc la asta mai târziu.",
+    "tips": "a gândi: eu gândesc, tu gândești, el/ea gândește, noi gândim, voi gândiți, ei/ele gândesc"
   },
   {
     "id": 11,
-    "word": "avoid",
-    "example": "Try to avoid eating too much sugar.",
-    "wordTranslation": "a evita, a ocoli",
-    "exampleTranslation": "Încearcă să eviți să mănânci prea mult zahăr."
+    "word": "almak",
+    "example": "Bir kalem aldım.",
+    "wordTranslation": "a lua",
+    "exampleTranslation": "Am luat un creion.",
+    "tips": "a lua: eu iau, tu iei, el/ea ia, noi luăm, voi luați, ei/ele iau"
   },
   {
     "id": 12,
-    "word": "become",
-    "example": "She wants to become a teacher.",
-    "wordTranslation": "a deveni, a se face",
-    "exampleTranslation": "Ea vrea să devină profesoară."
+    "word": "görmek",
+    "example": "Seni yarın göreceğim.",
+    "wordTranslation": "a vedea",
+    "exampleTranslation": "O să te văd mâine.",
+    "tips": "a vedea: eu văd, tu vezi, el/ea vede, noi vedem, voi vedeți, ei/ele văd"
   },
   {
     "id": 13,
-    "word": "begin",
-    "example": "The meeting will begin at 9 AM.",
-    "wordTranslation": "a începe, a porni",
-    "exampleTranslation": "Întâlnirea va începe la ora 9 dimineața."
+    "word": "gelmek",
+    "example": "Toplantıya geliyorum.",
+    "wordTranslation": "a veni",
+    "exampleTranslation": "Vin la întâlnire.",
+    "tips": "a veni: eu vin, tu vii, el/ea vine, noi venim, voi veniți, ei/ele vin"
   },
   {
     "id": 14,
-    "word": "believe",
-    "example": "I believe in working hard for success.",
-    "wordTranslation": "a crede, a avea încredere",
-    "exampleTranslation": "Cred în munca grea pentru succes."
+    "word": "istemek",
+    "example": "Bir kahve istiyorum.",
+    "wordTranslation": "a vrea",
+    "exampleTranslation": "Vreau o cafea.",
+    "tips": "a vrea: eu vreau, tu vrei, el/ea vrea, noi vrem, voi vreți, ei/ele vor"
   },
   {
     "id": 15,
-    "word": "belong",
-    "example": "This book belongs to my sister.",
-    "wordTranslation": "a aparține, a fi al cuiva",
-    "exampleTranslation": "Această carte aparține surorii mele."
+    "word": "bakmak",
+    "example": "Pencereden bakıyorum.",
+    "wordTranslation": "a privi",
+    "exampleTranslation": "Privesc pe fereastră.",
+    "tips": "a privi: eu privesc, tu privești, el/ea privește, noi privim, voi priviți, ei/ele privesc"
   },
   {
     "id": 16,
-    "word": "break",
-    "example": "Be careful not to break the glass.",
-    "wordTranslation": "a sparge, a rupe",
-    "exampleTranslation": "Ai grijă să nu spargi paharul."
+    "word": "kullanmak",
+    "example": "Bilgisayarı kullanıyorum.",
+    "wordTranslation": "a folosi",
+    "exampleTranslation": "Folosesc calculatorul.",
+    "tips": "a folosi: eu folosesc, tu folosești, el/ea folosește, noi folosim, voi folosiți, ei/ele folosesc"
   },
   {
     "id": 17,
-    "word": "bring",
-    "example": "Please bring your notebook to class.",
-    "wordTranslation": "a aduce, a duce",
-    "exampleTranslation": "Te rog adu-ți caietul la clasă."
+    "word": "bulmak",
+    "example": "Anahtarlarımı buldum.",
+    "wordTranslation": "a găsi",
+    "exampleTranslation": "Am găsit cheile.",
+    "tips": "a găsi: eu găsesc, tu găsești, el/ea găsește, noi găsim, voi găsiți, ei/ele găsesc"
   },
   {
     "id": 18,
-    "word": "build",
-    "example": "They plan to build a new hospital.",
-    "wordTranslation": "a construi, a zidi",
-    "exampleTranslation": "Ei plănuiesc să construiască un spital nou."
+    "word": "vermek",
+    "example": "Sana bir hediye vereceğim.",
+    "wordTranslation": "a da",
+    "exampleTranslation": "O să-ți dau un cadou.",
+    "tips": "a da: eu dau, tu dai, el/ea dă, noi dăm, voi dați, ei/ele dau"
   },
   {
     "id": 19,
-    "word": "buy",
-    "example": "I need to buy groceries for dinner.",
-    "wordTranslation": "a cumpăra, a achiziționa",
-    "exampleTranslation": "Trebuie să cumpăr alimente pentru cină."
+    "word": "söylemek",
+    "example": "Sana bir şey söyleyeceğim.",
+    "wordTranslation": "a spune",
+    "exampleTranslation": "O să-ți spun ceva.",
+    "tips": "a spune: eu spun, tu spui, el/ea spune, noi spunem, voi spuneți, ei/ele spun"
   },
   {
     "id": 20,
-    "word": "call",
-    "example": "I'll call you later tonight.",
-    "wordTranslation": "a suna, a chema",
-    "exampleTranslation": "Te voi suna mai târziu în seară."
-  },
-  {
-    "id": 21,
-    "word": "carry",
-    "example": "Can you help me carry these boxes?",
-    "wordTranslation": "a purta, a duce",
-    "exampleTranslation": "Mă poți ajuta să duc aceste cutii?"
-  },
-  {
-    "id": 22,
-    "word": "catch",
-    "example": "Try to catch the ball with both hands.",
-    "wordTranslation": "a prinde, a capta",
-    "exampleTranslation": "Încearcă să prinzi mingea cu ambele mâini."
-  },
-  {
-    "id": 23,
-    "word": "cause",
-    "example": "Heavy rain can cause flooding.",
-    "wordTranslation": "a cauza, a provoca",
-    "exampleTranslation": "Ploaia abundentă poate cauza inundații."
-  },
-  {
-    "id": 24,
-    "word": "change",
-    "example": "The weather can change quickly in spring.",
-    "wordTranslation": "a schimba, a modifica",
-    "exampleTranslation": "Vremea se poate schimba rapid primăvara."
-  },
-  {
-    "id": 25,
-    "word": "choose",
-    "example": "You can choose any color you like.",
-    "wordTranslation": "a alege, a selecta",
-    "exampleTranslation": "Poți alege orice culoare îți place."
-  },
-  {
-    "id": 26,
-    "word": "clean",
-    "example": "Please clean your room before going out.",
-    "wordTranslation": "a curăța, a face curat",
-    "exampleTranslation": "Te rog curăță-ți camera înainte să ieși."
-  },
-  {
-    "id": 27,
-    "word": "close",
-    "example": "Don't forget to close the door.",
-    "wordTranslation": "a închide, a încheia",
-    "exampleTranslation": "Nu uita să închizi ușa."
-  },
-  {
-    "id": 28,
-    "word": "come",
-    "example": "Come here and look at this picture.",
-    "wordTranslation": "a veni, a se apropia",
-    "exampleTranslation": "Vino aici și uită-te la această poză."
-  },
-  {
-    "id": 29,
-    "word": "compare",
-    "example": "Let's compare these two phones.",
-    "wordTranslation": "a compara, a confrunta",
-    "exampleTranslation": "Să comparăm aceste două telefoane."
-  },
-  {
-    "id": 30,
-    "word": "complete",
-    "example": "I need to complete this project by Friday.",
-    "wordTranslation": "a completa, a termina",
-    "exampleTranslation": "Trebuie să termin acest proiect până vineri."
+    "word": "çalışmak",
+    "example": "Bugün çok çalışıyorum.",
+    "wordTranslation": "a munci",
+    "exampleTranslation": "Muncesc mult astăzi.",
+    "tips": "a munci: eu muncesc, tu muncești, el/ea muncește, noi muncim, voi munciți, ei/ele muncesc"
   }
 ]
+
+
+

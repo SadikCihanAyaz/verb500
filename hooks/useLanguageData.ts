@@ -15,6 +15,7 @@ interface Verb {
   example: string;
   wordTranslation: string;
   exampleTranslation: string;
+  tips?: string;
 }
 
 export function useLanguageData() {

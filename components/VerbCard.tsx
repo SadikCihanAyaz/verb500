@@ -9,6 +9,7 @@ interface Verb {
   example: string;
   wordTranslation: string;
   exampleTranslation: string;
+  tips?: string;
 }
 
 interface VerbCardProps {
@@ -82,6 +83,13 @@ export default function VerbCard({ verb, status, onStatusChange }: VerbCardProps
               <span className="text-sm font-semibold text-blue-700 uppercase tracking-wide">Example Translation</span>
               <p className="text-base text-blue-700 leading-relaxed">{verb.exampleTranslation}</p>
             </div>
+            {
+              verb?.tips && verb?.tips.trim() && 
+              <div className="mt-4 border-t border-blue-200 pt-4">
+                <span className="text-sm font-semibold text-blue-700 uppercase tracking-wide">Tips</span>
+                <p className="text-base text-blue-700 leading-relaxed">{verb.tips}</p>
+              </div>
+            }
           </div>
         )}
 
