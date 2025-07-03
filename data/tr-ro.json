@@ -18,17 +18,17 @@
   {
     "id": 3,
     "word": "yapmak",
-    "example": "Her sabah egzersiz yaparım.",
+    "example": "Akşam vaktine kalmadan egzersiz yapıp eve gitmek gibi bir huyum var.",
     "wordTranslation": "a face",
-    "exampleTranslation": "Fac exerciții în fiecare dimineață.",
+    "exampleTranslation": "Am obiceiul de a face exerciții și de a merge acasă înainte de lăsarea serii.",
     "tips": "a face: eu fac, tu faci, el/ea face, noi facem, voi faceți, ei/ele fac"
   },
   {
     "id": 4,
     "word": "söylemek",
-    "example": "O doğruyu söyledi.",
+    "example": "Seninle iki hafta önce konuştuğumuzda farklı bir şey söylemişti.",
     "wordTranslation": "a spune",
-    "exampleTranslation": "El a spus adevărul.",
+    "exampleTranslation": "Când am vorbit cu tine acum două săptămâni, a spus altceva.",
     "tips": "a spune: eu spun, tu spui, el/ea spune, noi spunem, voi spuneți, ei/ele spun"
   },
   {
@@ -42,9 +42,9 @@
   {
     "id": 6,
     "word": "ebilmek",
-    "example": "Ben yüzebilirim.",
+    "example": "Ben çat pat yüzebilirim fakat en önemlisi çocuklarımın da yüzmeyi öğrenmesi gerekiyor.",
     "wordTranslation": "a putea",
-    "exampleTranslation": "Pot să înot.",
+    "exampleTranslation": "Pot să înot puțin, dar cel mai important este că și copiii mei trebuie să învețe să înoate.",
     "tips": "a putea: eu pot, tu poți, el/ea poate, noi putem, voi puteți, ei/ele pot"
   },
   {
@@ -74,9 +74,9 @@
   {
     "id": 10,
     "word": "düşünmek",
-    "example": "Bunu daha sonra düşüneceğim.",
+    "example": "Bana biraz zaman ver, bir düşünüp sana döneyim, olur mu?",
     "wordTranslation": "a gândi",
-    "exampleTranslation": "O să mă gândesc la asta mai târziu.",
+    "exampleTranslation": "Dă-mi puțin timp, să mă gândesc și revin la tine, bine?",
     "tips": "a gândi: eu gândesc, tu gândești, el/ea gândește, noi gândim, voi gândiți, ei/ele gândesc"
   },
   {
