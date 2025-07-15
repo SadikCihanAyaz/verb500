@@ -558,5 +558,245 @@
     "wordTranslation": "a deschide",
     "exampleTranslation": "Poți să deschizi ușa?",
     "tips": "a deschide: eu deschid, tu deschizi, el/ea deschide, noi deschidem, voi deschideți, ei/ele deschid"
+  },
+  {
+    "id": 71,
+    "word": "yürümek",
+    "example": "Her sabah yürüyüş yaparım.",
+    "wordTranslation": "a merge pe jos",
+    "exampleTranslation": "Fac o plimbare în fiecare dimineață.",
+    "tips": "a merge pe jos: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg"
+  },
+  {
+    "id": 72,
+    "word": "kazanmak",
+    "example": "Yarışı o kazandı.",
+    "wordTranslation": "a câștiga",
+    "exampleTranslation": "El a câștigat cursa.",
+    "tips": "a câștiga: eu câștig, tu câștigi, el/ea câștigă, noi câștigăm, voi câștigați, ei/ele câștigă"
+  },
+  {
+    "id": 73,
+    "word": "teklif etmek",
+    "example": "Yardım etmeyi teklif etti.",
+    "wordTranslation": "a oferi",
+    "exampleTranslation": "A oferit să ajute.",
+    "tips": "a oferi: eu ofer, tu oferi, el/ea oferă, noi oferim, voi oferiți, ei/ele oferă"
+  },
+  {
+    "id": 74,
+    "word": "hatırlamak",
+    "example": "Onun adını hatırlıyorum.",
+    "wordTranslation": "a-și aminti",
+    "exampleTranslation": "Îmi amintesc numele lui.",
+    "tips": "a-și aminti: eu îmi amintesc, tu îți amintești, el/ea își amintește, noi ne amintim, voi vă amintiți, ei/ele își amintesc"
+  },
+  {
+    "id": 75,
+    "word": "sevmek",
+    "example": "Seni seviyorum.",
+    "wordTranslation": "a iubi",
+    "exampleTranslation": "Te iubesc.",
+    "tips": "a iubi: eu iubesc, tu iubești, el/ea iubește, noi iubim, voi iubiți, ei/ele iubesc"
+  },
+  {
+    "id": 76,
+    "word": "düşünmek",
+    "example": "Bu fikri düşünüyorum.",
+    "wordTranslation": "a considera",
+    "exampleTranslation": "Consider această idee.",
+    "tips": "a considera: eu consider, tu consideri, el/ea consideră, noi considerăm, voi considerați, ei/ele consideră"
+  },
+  {
+    "id": 77,
+    "word": "görünmek",
+    "example": "O mutlu görünüyor.",
+    "wordTranslation": "a părea",
+    "exampleTranslation": "Pare fericit.",
+    "tips": "a părea: eu par, tu pari, el/ea pare, noi părem, voi păreți, ei/ele par"
+  },
+  {
+    "id": 78,
+    "word": "satın almak",
+    "example": "Yeni bir telefon satın aldım.",
+    "wordTranslation": "a cumpăra",
+    "exampleTranslation": "Am cumpărat un telefon nou.",
+    "tips": "a cumpăra: eu cumpăr, tu cumperi, el/ea cumpără, noi cumpărăm, voi cumpărați, ei/ele cumpără"
+  },
+  {
+    "id": 79,
+    "word": "beklemek",
+    "example": "Otobüsü bekliyorum.",
+    "wordTranslation": "a aștepta",
+    "exampleTranslation": "Aștept autobuzul.",
+    "tips": "a aștepta: eu aștept, tu aștepți, el/ea așteaptă, noi așteptăm, voi așteptați, ei/ele așteaptă"
+  },
+  {
+    "id": 80,
+    "word": "hizmet etmek",
+    "example": "O bize hizmet etti.",
+    "wordTranslation": "a servi",
+    "exampleTranslation": "Ne-a servit.",
+    "tips": "a servi: eu servesc, tu servești, el/ea servește, noi servim, voi serviți, ei/ele servesc"
+  },
+  {
+    "id": 81,
+    "word": "ölmek",
+    "example": "Büyükbabam geçen yıl öldü.",
+    "wordTranslation": "a muri",
+    "exampleTranslation": "Bunicul meu a murit anul trecut.",
+    "tips": "a muri: eu mor, tu mori, el/ea moare, noi murim, voi muriți, ei/ele mor"
+  },
+  {
+    "id": 82,
+    "word": "göndermek",
+    "example": "Sana bir e-posta göndereceğim.",
+    "wordTranslation": "a trimite",
+    "exampleTranslation": "Îți voi trimite un e-mail.",
+    "tips": "a trimite: eu trimit, tu trimiți, el/ea trimite, noi trimitem, voi trimiteți, ei/ele trimit"
+  },
+  {
+    "id": 83,
+    "word": "inşa etmek",
+    "example": "Yeni bir ev inşa ediyorlar.",
+    "wordTranslation": "a construi",
+    "exampleTranslation": "Ei construiesc o casă nouă.",
+    "tips": "a construi: eu construiesc, tu construiești, el/ea construiește, noi construim, voi construiți, ei/ele construiesc"
+  },
+  {
+    "id": 84,
+    "word": "kalmak",
+    "example": "Bu gece evde kalacağım.",
+    "wordTranslation": "a rămâne",
+    "exampleTranslation": "Voi rămâne acasă în seara asta.",
+    "tips": "a rămâne: eu rămân, tu rămâi, el/ea rămâne, noi rămânem, voi rămâneți, ei/ele rămân"
+  },
+  {
+    "id": 85,
+    "word": "düşmek",
+    "example": "Merdivenden düştü.",
+    "wordTranslation": "a cădea",
+    "exampleTranslation": "A căzut pe scări.",
+    "tips": "a cădea: eu cad, tu cazi, el/ea cade, noi cădem, voi cădeți, ei/ele cad"
+  },
+  {
+    "id": 86,
+    "word": "kesmek",
+    "example": "Ekmeği kestim.",
+    "wordTranslation": "a tăia",
+    "exampleTranslation": "Am tăiat pâinea.",
+    "tips": "a tăia: eu tai, tu tai, el/ea taie, noi tăiem, voi tăiați, ei/ele taie"
+  },
+  {
+    "id": 87,
+    "word": "ulaşmak",
+    "example": "Tren istasyona ulaştı.",
+    "wordTranslation": "a ajunge",
+    "exampleTranslation": "Trenul a ajuns la gară.",
+    "tips": "a ajunge: eu ajung, tu ajungi, el/ea ajunge, noi ajungem, voi ajungeți, ei/ele ajung"
+  },
+  {
+    "id": 88,
+    "word": "öldürmek",
+    "example": "Filmde karakteri öldürdü.",
+    "wordTranslation": "a ucide",
+    "exampleTranslation": "A ucis personajul în film.",
+    "tips": "a ucide: eu ucid, tu ucizi, el/ea ucide, noi ucidem, voi ucideți, ei/ele ucid"
+  },
+  {
+    "id": 89,
+    "word": "yükseltmek",
+    "example": "Sesi biraz yükseltti.",
+    "wordTranslation": "a ridica",
+    "exampleTranslation": "A ridicat puțin volumul.",
+    "tips": "a ridica: eu ridic, tu ridici, el/ea ridică, noi ridicăm, voi ridicați, ei/ele ridică"
+  },
+  {
+    "id": 90,
+    "word": "geçmek",
+    "example": "Yoldan geçiyorum.",
+    "wordTranslation": "a trece",
+    "exampleTranslation": "Trec pe drum.",
+    "tips": "a trece: eu trec, tu treci, el/ea trece, noi trecem, voi treceți, ei/ele trec"
+  },
+  {
+    "id": 91,
+    "word": "satmak",
+    "example": "Arabasını sattı.",
+    "wordTranslation": "a vinde",
+    "exampleTranslation": "Și-a vândut mașina.",
+    "tips": "a vinde: eu vând, tu vinzi, el/ea vinde, noi vindem, voi vindeți, ei/ele vând"
+  },
+  {
+    "id": 92,
+    "word": "karar vermek",
+    "example": "Tatile gitmeye karar verdik.",
+    "wordTranslation": "a decide",
+    "exampleTranslation": "Am decis să mergem în vacanță.",
+    "tips": "a decide: eu decid, tu decizi, el/ea decide, noi decidem, voi decideți, ei/ele decid"
+  },
+  {
+    "id": 93,
+    "word": "geri dönmek",
+    "example": "Eve geç döndü.",
+    "wordTranslation": "a se întoarce",
+    "exampleTranslation": "S-a întors acasă târziu.",
+    "tips": "a se întoarce: eu mă întorc, tu te întorci, el/ea se întoarce, noi ne întoarcem, voi vă întoarceți, ei/ele se întorc"
+  },
+  {
+    "id": 94,
+    "word": "açıklamak",
+    "example": "Durumu açıkladı.",
+    "wordTranslation": "a explica",
+    "exampleTranslation": "A explicat situația.",
+    "tips": "a explica: eu explic, tu explici, el/ea explică, noi explicăm, voi explicați, ei/ele explică"
+  },
+  {
+    "id": 95,
+    "word": "ummak",
+    "example": "Yarın yağmur yağmaz diye umuyorum.",
+    "wordTranslation": "a spera",
+    "exampleTranslation": "Sper să nu plouă mâine.",
+    "tips": "a spera: eu sper, tu speri, el/ea speră, noi sperăm, voi sperați, ei/ele speră"
+  },
+  {
+    "id": 96,
+    "word": "taşımak",
+    "example": "Kutuyu taşıyabilir misin?",
+    "wordTranslation": "a transporta",
+    "exampleTranslation": "Poți transporta cutia?",
+    "tips": "a transporta: eu transport, tu transporți, el/ea transportă, noi transportăm, voi transportați, ei/ele transportă"
+  },
+  {
+    "id": 97,
+    "word": "kırmak",
+    "example": "Camı kırdı.",
+    "wordTranslation": "a sparge",
+    "exampleTranslation": "A spart geamul.",
+    "tips": "a sparge: eu sparg, tu spargi, el/ea sparge, noi spargem, voi spargeți, ei/ele sparg"
+  },
+  {
+    "id": 98,
+    "word": "geliştirmek",
+    "example": "Yeni bir uygulama geliştirdik.",
+    "wordTranslation": "a dezvolta",
+    "exampleTranslation": "Am dezvoltat o nouă aplicație.",
+    "tips": "a dezvolta: eu dezvolt, tu dezvolți, el/ea dezvoltă, noi dezvoltăm, voi dezvoltați, ei/ele dezvoltă"
+  },
+  {
+    "id": 99,
+    "word": "teşekkür etmek",
+    "example": "Yardımın için teşekkür ederim.",
+    "wordTranslation": "a mulțumi",
+    "exampleTranslation": "Îți mulțumesc pentru ajutor.",
+    "tips": "a mulțumi: eu mulțumesc, tu mulțumești, el/ea mulțumește, noi mulțumim, voi mulțumiți, ei/ele mulțumesc"
+  },
+  {
+    "id": 100,
+    "word": "seçmek",
+    "example": "Hangi elbiseyi seçeceksin?",
+    "wordTranslation": "a alege",
+    "exampleTranslation": "Ce rochie vei alege?",
+    "tips": "a alege: eu aleg, tu alegi, el/ea alege, noi alegem, voi alegeți, ei/ele aleg"
   }
 ]
