@@ -158,6 +158,86 @@
     "wordTranslation": "a munci",
     "exampleTranslation": "Muncesc mult astăzi.",
     "tips": "a munci: eu muncesc, tu muncești, el/ea muncește, noi muncim, voi munciți, ei/ele muncesc"
+  },
+  {
+    "id": 21,
+    "word": "aramak",
+    "example": "Seni sonra arayacağım.",
+    "wordTranslation": "a suna",
+    "exampleTranslation": "O să te sun mai târziu.",
+    "tips": "a suna: eu sun, tu suni, el/ea sună, noi sunăm, voi sunați, ei/ele sună"
+  },
+  {
+    "id": 22,
+    "word": "denemek",
+    "example": "Yeni elbiseyi denemek istiyorum.",
+    "wordTranslation": "a încerca",
+    "exampleTranslation": "Vreau să încerc rochia nouă.",
+    "tips": "a încerca: eu încerc, tu încerci, el/ea încearcă, noi încercăm, voi încercați, ei/ele încearcă"
+  },
+  {
+    "id": 23,
+    "word": "sormak",
+    "example": "Öğretmene bir soru sordum.",
+    "wordTranslation": "a întreba",
+    "exampleTranslation": "Am întrebat o întrebare profesorului.",
+    "tips": "a întreba: eu întreb, tu întrebi, el/ea întreabă, noi întrebăm, voi întrebați, ei/ele întreabă"
+  },
+  {
+    "id": 24,
+    "word": "ihtiyaç duymak",
+    "example": "Biraz yardıma ihtiyaç duyuyorum.",
+    "wordTranslation": "a avea nevoie",
+    "exampleTranslation": "Am nevoie de puțin ajutor.",
+    "tips": "a avea nevoie: eu am nevoie, tu ai nevoie, el/ea are nevoie, noi avem nevoie, voi aveți nevoie, ei/ele au nevoie"
+  },
+  {
+    "id": 25,
+    "word": "hissetmek",
+    "example": "Bugün kendimi çok iyi hissediyorum.",
+    "wordTranslation": "a se simți",
+    "exampleTranslation": "Mă simt foarte bine azi.",
+    "tips": "a se simți: eu mă simt, tu te simți, el/ea se simte, noi ne simțim, voi vă simțiți, ei/ele se simt"
+  },
+  {
+    "id": 26,
+    "word": "olmak",
+    "example": "Doktor olmak istiyorum.",
+    "wordTranslation": "a deveni",
+    "exampleTranslation": "Vreau să devin doctor.",
+    "tips": "a deveni: eu devin, tu devii, el/ea devine, noi devenim, voi deveniți, ei/ele devin"
+  },
+  {
+    "id": 27,
+    "word": "ayrılmak",
+    "example": "Saat 5'te işten ayrıldım.",
+    "wordTranslation": "a pleca",
+    "exampleTranslation": "Am plecat de la muncă la ora 5.",
+    "tips": "a pleca: eu plec, tu pleci, el/ea pleacă, noi plecăm, voi plecați, ei/ele pleacă"
+  },
+  {
+    "id": 28,
+    "word": "koymak",
+    "example": "Kitabı masanın üstüne koydum.",
+    "wordTranslation": "a pune",
+    "exampleTranslation": "Am pus cartea pe masă.",
+    "tips": "a pune: eu pun, tu pui, el/ea pune, noi punem, voi puneți, ei/ele pun"
+  },
+  {
+    "id": 29,
+    "word": "anlamına gelmek",
+    "example": "Bu kelime ne anlama geliyor?",
+    "wordTranslation": "a însemna",
+    "exampleTranslation": "Ce înseamnă acest cuvânt?",
+    "tips": "a însemna: eu însemn, tu însemni, el/ea înseamnă, noi însemnăm, voi însemnați, ei/ele înseamnă"
+  },
+  {
+    "id": 30,
+    "word": "tutmak",
+    "example": "Kapıyı açık tut lütfen.",
+    "wordTranslation": "a ține",
+    "exampleTranslation": "Te rog să ții ușa deschisă.",
+    "tips": "a ține: eu țin, tu ții, el/ea ține, noi ținem, voi țineți, ei/ele țin"
   }
 ]
 
