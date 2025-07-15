@@ -238,8 +238,325 @@
     "wordTranslation": "a ține",
     "exampleTranslation": "Te rog să ții ușa deschisă.",
     "tips": "a ține: eu țin, tu ții, el/ea ține, noi ținem, voi țineți, ei/ele țin"
+  },
+  {
+    "id": 31,
+    "word": "izin vermek",
+    "example": "Gitmene izin vereceğim.",
+    "wordTranslation": "a lăsa",
+    "exampleTranslation": "O să te las să pleci.",
+    "tips": "a lăsa: eu las, tu lași, el/ea lasă, noi lăsăm, voi lăsați, ei/ele lasă"
+  },
+  {
+    "id": 32,
+    "word": "başlamak",
+    "example": "Yeni bir projeye başlıyoruz.",
+    "wordTranslation": "a începe",
+    "exampleTranslation": "Începem un nou proiect.",
+    "tips": "a începe: eu încep, tu începi, el/ea începe, noi începem, voi începeți, ei/ele încep"
+  },
+  {
+    "id": 33,
+    "word": "gibi görünmek",
+    "example": "Yorgun gibi görünüyorsun.",
+    "wordTranslation": "a părea",
+    "exampleTranslation": "Pari obosit.",
+    "tips": "a părea: eu par, tu pari, el/ea pare, noi părem, voi păreți, ei/ele par"
+  },
+  {
+    "id": 34,
+    "word": "yardım etmek",
+    "example": "Sana yardım edebilirim.",
+    "wordTranslation": "a ajuta",
+    "exampleTranslation": "Pot să te ajut.",
+    "tips": "a ajuta: eu ajut, tu ajuți, el/ea ajută, noi ajutăm, voi ajutați, ei/ele ajută"
+  },
+  {
+    "id": 35,
+    "word": "konuşmak",
+    "example": "Seninle konuşmam lazım.",
+    "wordTranslation": "a vorbi",
+    "exampleTranslation": "Trebuie să vorbesc cu tine.",
+    "tips": "a vorbi: eu vorbesc, tu vorbești, el/ea vorbește, noi vorbim, voi vorbiți, ei/ele vorbesc"
+  },
+  {
+    "id": 36,
+    "word": "dönmek",
+    "example": "Sağa dön.",
+    "wordTranslation": "a se întoarce",
+    "exampleTranslation": "Întoarce-te la dreapta.",
+    "tips": "a se întoarce: eu mă întorc, tu te întorci, el/ea se întoarce, noi ne întoarcem, voi vă întoarceți, ei/ele se întorc"
+  },
+  {
+    "id": 37,
+    "word": "başlamak",
+    "example": "Ders başlamak üzere.",
+    "wordTranslation": "a începe",
+    "exampleTranslation": "Cursul este pe cale să înceapă.",
+    "tips": "a începe: eu încep, tu începi, el/ea începe, noi începem, voi începeți, ei/ele încep"
+  },
+  {
+    "id": 38,
+    "word": "göstermek",
+    "example": "Sana bir şey göstereceğim.",
+    "wordTranslation": "a arăta",
+    "exampleTranslation": "O să-ți arăt ceva.",
+    "tips": "a arăta: eu arăt, tu arăți, el/ea arată, noi arătăm, voi arătați, ei/ele arată"
+  },
+  {
+    "id": 39,
+    "word": "duymak",
+    "example": "Ne dediğini duydum.",
+    "wordTranslation": "a auzi",
+    "exampleTranslation": "Am auzit ce ai spus.",
+    "tips": "a auzi: eu aud, tu auzi, el/ea aude, noi auzim, voi auziți, ei/ele aud"
+  },
+  {
+    "id": 40,
+    "word": "oynamak",
+    "example": "Çocuklar parkta oynuyor.",
+    "wordTranslation": "a se juca",
+    "exampleTranslation": "Copiii se joacă în parc.",
+    "tips": "a se juca: eu mă joc, tu te joci, el/ea se joacă, noi ne jucăm, voi vă jucați, ei/ele se joacă"
+  },
+  {
+    "id": 41,
+    "word": "koşmak",
+    "example": "Her sabah parkta koşuyorum.",
+    "wordTranslation": "a alerga",
+    "exampleTranslation": "Alerg în parc în fiecare dimineață.",
+    "tips": "a alerga: eu alerg, tu alergi, el/ea aleargă, noi alergăm, voi alergați, ei/ele aleargă"
+  },
+  {
+    "id": 42,
+    "word": "hareket etmek",
+    "example": "Yavaşça hareket et.",
+    "wordTranslation": "a se mișca",
+    "exampleTranslation": "Mișcă-te încet.",
+    "tips": "a se mișca: eu mă mișc, tu te miști, el/ea se mișcă, noi ne mișcăm, voi vă mișcați, ei/ele se mișcă"
+  },
+  {
+    "id": 43,
+    "word": "beğenmek",
+    "example": "Bu elbiseyi çok beğendim.",
+    "wordTranslation": "a plăcea",
+    "exampleTranslation": "Mi-a plăcut foarte mult această rochie.",
+    "tips": "a plăcea: îmi place, îți place, îi place, ne place, vă place, le place"
+  },
+  {
+    "id": 44,
+    "word": "yaşamak",
+    "example": "Ben Romanya'da yaşıyorum.",
+    "wordTranslation": "a locui / a trăi",
+    "exampleTranslation": "Locuiesc în România.",
+    "tips": "a locui: eu locuiesc, tu locuiești, el/ea locuiește, noi locuim, voi locuiți, ei/ele locuiesc"
+  },
+  {
+    "id": 45,
+    "word": "inanmak",
+    "example": "Sana inanıyorum.",
+    "wordTranslation": "a crede",
+    "exampleTranslation": "Cred în tine.",
+    "tips": "a crede: eu cred, tu crezi, el/ea crede, noi credem, voi credeți, ei/ele cred"
+  },
+  {
+    "id": 46,
+    "word": "tutmak",
+    "example": "Lütfen kapıyı tut.",
+    "wordTranslation": "a ține",
+    "exampleTranslation": "Te rog să ții ușa.",
+    "tips": "a ține: eu țin, tu ții, el/ea ține, noi ținem, voi țineți, ei/ele țin"
+  },
+  {
+    "id": 47,
+    "word": "getirmek",
+    "example": "Sana su getirdim.",
+    "wordTranslation": "a aduce",
+    "exampleTranslation": "Ți-am adus apă.",
+    "tips": "a aduce: eu aduc, tu aduci, el/ea aduce, noi aducem, voi aduceți, ei/ele aduc"
+  },
+  {
+    "id": 48,
+    "word": "olmak (meydana gelmek)",
+    "example": "Bugün tuhaf bir şey oldu.",
+    "wordTranslation": "a se întâmpla",
+    "exampleTranslation": "S-a întâmplat ceva ciudat azi.",
+    "tips": "a se întâmpla: se întâmplă (impersonal), ce s-a întâmplat?, nu s-a întâmplat nimic"
+  },
+  {
+    "id": 49,
+    "word": "yazmak",
+    "example": "Sana bir mektup yazdım.",
+    "wordTranslation": "a scrie",
+    "exampleTranslation": "Ți-am scris o scrisoare.",
+    "tips": "a scrie: eu scriu, tu scrii, el/ea scrie, noi scriem, voi scrieți, ei/ele scriu"
+  },
+  {
+    "id": 50,
+    "word": "sağlamak",
+    "example": "Şirket çalışanlarına yemek sağlıyor.",
+    "wordTranslation": "a oferi / a furniza",
+    "exampleTranslation": "Compania oferă mâncare angajaților.",
+    "tips": "a oferi: eu ofer, tu oferi, el/ea oferă, noi oferim, voi oferiți, ei/ele oferă"
+  },
+  {
+    "id": 51,
+    "word": "oturmak",
+    "example": "Lütfen buraya oturun.",
+    "wordTranslation": "a se așeza",
+    "exampleTranslation": "Vă rog să vă așezați aici.",
+    "tips": "a se așeza: eu mă așez, tu te așezi, el/ea se așează, noi ne așezăm, voi vă așezați, ei/ele se așează"
+  },
+  {
+    "id": 52,
+    "word": "ayakta durmak",
+    "example": "Lütfen burada ayakta durun.",
+    "wordTranslation": "a sta în picioare",
+    "exampleTranslation": "Vă rog să stați în picioare aici.",
+    "tips": "a sta: eu stau, tu stai, el/ea stă, noi stăm, voi stați, ei/ele stau"
+  },
+  {
+    "id": 53,
+    "word": "kaybetmek",
+    "example": "Anahtarlarımı kaybettim.",
+    "wordTranslation": "a pierde",
+    "exampleTranslation": "Am pierdut cheile mele.",
+    "tips": "a pierde: eu pierd, tu pierzi, el/ea pierde, noi pierdem, voi pierdeți, ei/ele pierd"
+  },
+  {
+    "id": 54,
+    "word": "ödemek",
+    "example": "Yemeği ben ödedim.",
+    "wordTranslation": "a plăti",
+    "exampleTranslation": "Am plătit eu masa.",
+    "tips": "a plăti: eu plătesc, tu plătești, el/ea plătește, noi plătim, voi plătiți, ei/ele plătesc"
+  },
+  {
+    "id": 55,
+    "word": "buluşmak",
+    "example": "Arkadaşımla kafede buluştum.",
+    "wordTranslation": "a se întâlni",
+    "exampleTranslation": "M-am întâlnit cu prietenul meu la cafenea.",
+    "tips": "a se întâlni: eu mă întâlnesc, tu te întâlnești, el/ea se întâlnește, noi ne întâlnim, voi vă întâlniți, ei/ele se întâlnesc"
+  },
+  {
+    "id": 56,
+    "word": "içermek",
+    "example": "Bu kitap üç bölümü içeriyor.",
+    "wordTranslation": "a include",
+    "exampleTranslation": "Această carte include trei capitole.",
+    "tips": "a include: eu includ, tu incluzi, el/ea include, noi includem, voi includeți, ei/ele includ"
+  },
+  {
+    "id": 57,
+    "word": "devam etmek",
+    "example": "Konuşmaya devam etti.",
+    "wordTranslation": "a continua",
+    "exampleTranslation": "A continuat să vorbească.",
+    "tips": "a continua: eu continui, tu continui, el/ea continuă, noi continuăm, voi continuați, ei/ele continuă"
+  },
+  {
+    "id": 58,
+    "word": "kurmak / ayarlamak",
+    "example": "Alarmı saat yediye kurdum.",
+    "wordTranslation": "a seta",
+    "exampleTranslation": "Am setat alarma la ora șapte.",
+    "tips": "a seta: eu setez, tu setezi, el/ea setează, noi setăm, voi setați, ei/ele setează"
+  },
+  {
+    "id": 59,
+    "word": "öğrenmek",
+    "example": "Yeni bir dil öğreniyorum.",
+    "wordTranslation": "a învăța",
+    "exampleTranslation": "Învăț o limbă nouă.",
+    "tips": "a învăța: eu învăț, tu înveți, el/ea învață, noi învățăm, voi învățați, ei/ele învață"
+  },
+  {
+    "id": 60,
+    "word": "değişmek / değiştirmek",
+    "example": "Planlarımızı değiştirdik.",
+    "wordTranslation": "a schimba",
+    "exampleTranslation": "Am schimbat planurile noastre.",
+    "tips": "a schimba: eu schimb, tu schimbi, el/ea schimbă, noi schimbăm, voi schimbați, ei/ele schimbă"
+  },
+  {
+    "id": 61,
+    "word": "önderlik etmek",
+    "example": "Takıma o önderlik ediyor.",
+    "wordTranslation": "a conduce",
+    "exampleTranslation": "El conduce echipa.",
+    "tips": "a conduce: eu conduc, tu conduci, el/ea conduce, noi conducem, voi conduceți, ei/ele conduc"
+  },
+  {
+    "id": 62,
+    "word": "anlamak",
+    "example": "Söylediklerini anlamıyorum.",
+    "wordTranslation": "a înțelege",
+    "exampleTranslation": "Nu înțeleg ce spui.",
+    "tips": "a înțelege: eu înțeleg, tu înțelegi, el/ea înțelege, noi înțelegem, voi înțelegeți, ei/ele înțeleg"
+  },
+  {
+    "id": 63,
+    "word": "izlemek",
+    "example": "Televizyon izliyorum.",
+    "wordTranslation": "a urmări",
+    "exampleTranslation": "Urmăresc televizorul.",
+    "tips": "a urmări: eu urmăresc, tu urmărești, el/ea urmărește, noi urmărim, voi urmăriți, ei/ele urmăresc"
+  },
+  {
+    "id": 64,
+    "word": "takip etmek",
+    "example": "O adamı takip ettik.",
+    "wordTranslation": "a urmări",
+    "exampleTranslation": "L-am urmărit pe acel bărbat.",
+    "tips": "a urmări: eu urmăresc, tu urmărești, el/ea urmărește, noi urmărim, voi urmăriți, ei/ele urmăresc"
+  },
+  {
+    "id": 65,
+    "word": "durmak / durdurmak",
+    "example": "Müzik aniden durdu.",
+    "wordTranslation": "a opri",
+    "exampleTranslation": "Muzica s-a oprit brusc.",
+    "tips": "a opri: eu opresc, tu oprești, el/ea oprește, noi oprim, voi opriți, ei/ele opresc"
+  },
+  {
+    "id": 66,
+    "word": "oluşturmak / yaratmak",
+    "example": "Yeni bir uygulama oluşturdu.",
+    "wordTranslation": "a crea",
+    "exampleTranslation": "A creat o aplicație nouă.",
+    "tips": "a crea: eu creez, tu creezi, el/ea creează, noi creăm, voi creați, ei/ele creează"
+  },
+  {
+    "id": 67,
+    "word": "konuşmak",
+    "example": "Toplantıda herkes konuştu.",
+    "wordTranslation": "a vorbi",
+    "exampleTranslation": "Toți au vorbit în ședință.",
+    "tips": "a vorbi: eu vorbesc, tu vorbești, el/ea vorbește, noi vorbim, voi vorbiți, ei/ele vorbesc"
+  },
+  {
+    "id": 68,
+    "word": "okumak",
+    "example": "Günde bir kitap okuyorum.",
+    "wordTranslation": "a citi",
+    "exampleTranslation": "Citesc o carte pe zi.",
+    "tips": "a citi: eu citesc, tu citești, el/ea citește, noi citim, voi citiți, ei/ele citesc"
+  },
+  {
+    "id": 69,
+    "word": "büyümek",
+    "example": "Çocuklar çok hızlı büyüyor.",
+    "wordTranslation": "a crește",
+    "exampleTranslation": "Copiii cresc foarte repede.",
+    "tips": "a crește: eu cresc, tu crești, el/ea crește, noi creștem, voi creșteți, ei/ele cresc"
+  },
+  {
+    "id": 70,
+    "word": "açmak",
+    "example": "Kapıyı açar mısın?",
+    "wordTranslation": "a deschide",
+    "exampleTranslation": "Poți să deschizi ușa?",
+    "tips": "a deschide: eu deschid, tu deschizi, el/ea deschide, noi deschidem, voi deschideți, ei/ele deschid"
   }
 ]
-
-
-
