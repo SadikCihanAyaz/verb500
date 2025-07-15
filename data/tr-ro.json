@@ -798,5 +798,85 @@
     "wordTranslation": "a alege",
     "exampleTranslation": "Ce rochie vei alege?",
     "tips": "a alege: eu aleg, tu alegi, el/ea alege, noi alegem, voi alegeți, ei/ele aleg"
+  },
+  {
+    "id": 101,
+    "word": "kaçınmak",
+    "example": "Hatalardan kaçınmalısın.",
+    "wordTranslation": "a evita",
+    "exampleTranslation": "Trebuie să eviți greșelile.",
+    "tips": "a evita: eu evit, tu eviți, el/ea evită, noi evităm, voi evitați, ei/ele evită"
+  },
+  {
+    "id": 102,
+    "word": "eklemek",
+    "example": "Çorbaya tuz ekledim.",
+    "wordTranslation": "a adăuga",
+    "exampleTranslation": "Am adăugat sare în supă.",
+    "tips": "a adăuga: eu adaug, tu adaugi, el/ea adaugă, noi adăugăm, voi adăugați, ei/ele adaugă"
+  },
+  {
+    "id": 103,
+    "word": "hazırlamak",
+    "example": "Yemeği hazırlıyorum.",
+    "wordTranslation": "a pregăti",
+    "exampleTranslation": "Pregătesc mâncarea.",
+    "tips": "a pregăti: eu pregătesc, tu pregătești, el/ea pregătește, noi pregătim, voi pregătiți, ei/ele pregătesc"
+  },
+  {
+    "id": 104,
+    "word": "yemek",
+    "example": "Akşam yemeğini yedim.",
+    "wordTranslation": "a mânca",
+    "exampleTranslation": "Am mâncat cina.",
+    "tips": "a mânca: eu mănânc, tu mănânci, el/ea mănâncă, noi mâncăm, voi mâncați, ei/ele mănâncă"
+  },
+  {
+    "id": 105,
+    "word": "içmek",
+    "example": "Bir bardak su içtim.",
+    "wordTranslation": "a bea",
+    "exampleTranslation": "Am băut un pahar cu apă.",
+    "tips": "a bea: eu beau, tu bei, el/ea bea, noi bem, voi beți, ei/ele beau"
+  },
+  {
+    "id": 106,
+    "word": "uyumak",
+    "example": "Gece geç uyudum.",
+    "wordTranslation": "a dormi",
+    "exampleTranslation": "Am dormit târziu noaptea trecută.",
+    "tips": "a dormi: eu dorm, tu dormi, el/ea doarme, noi dormim, voi dormiți, ei/ele dorm"
+  },
+  {
+    "id": 107,
+    "word": "gülümsemek",
+    "example": "O bana gülümsedi.",
+    "wordTranslation": "a zâmbi",
+    "exampleTranslation": "Mi-a zâmbit.",
+    "tips": "a zâmbi: eu zâmbesc, tu zâmbești, el/ea zâmbește, noi zâmbim, voi zâmbiți, ei/ele zâmbesc"
+  },
+  {
+    "id": 108,
+    "word": "ağlamak",
+    "example": "Filmde ağladı.",
+    "wordTranslation": "a plânge",
+    "exampleTranslation": "A plâns la film.",
+    "tips": "a plânge: eu plâng, tu plângi, el/ea plânge, noi plângem, voi plângeți, ei/ele plâng"
+  },
+  {
+    "id": 109,
+    "word": "gülmek",
+    "example": "Şakaya çok güldü.",
+    "wordTranslation": "a râde",
+    "exampleTranslation": "A râs mult la glumă.",
+    "tips": "a râde: eu râd, tu râzi, el/ea râde, noi râdem, voi râdeți, ei/ele râd"
+  },
+  {
+    "id": 110,
+    "word": "pişirmek",
+    "example": "Kek pişirdim.",
+    "wordTranslation": "a găti",
+    "exampleTranslation": "Am gătit o prăjitură.",
+    "tips": "a găti: eu gătesc, tu gătești, el/ea gătește, noi gătim, voi gătiți, ei/ele gătesc"
   }
 ]
